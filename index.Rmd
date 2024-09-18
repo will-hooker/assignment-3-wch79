@@ -1,0 +1,12 @@
+---
+title: "Will and Luna's Geology Website"
+author: "Will Hooker and Luna Natoli"
+date: "2024-09-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Varna High Cliffs](/Users/willhooker/github/assignment-3-wch79/Varna.jpeg)
